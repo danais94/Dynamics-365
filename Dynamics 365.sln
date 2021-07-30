@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sales Order", "Sales Order", "{447783C0-D869-4953-8FCD-B9891BAFD75E}"
+	ProjectSection(SolutionItems) = preProject
+		bnt_LocationSpSalesOrder.js = bnt_LocationSpSalesOrder.js
+		bnt_salesOrderRibbon.js = bnt_salesOrderRibbon.js
+		bnt_salse_Order.js = bnt_salse_Order.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opportunity", "Opportunity", "{3E3FAA06-6D9D-4E25-8892-C068BF67781C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB448DE-1BC7-42E4-85E0-5FC9D23346DD}
+	EndGlobalSection
+EndGlobal
